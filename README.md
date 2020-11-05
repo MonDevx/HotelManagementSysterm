@@ -40,3 +40,4 @@ Several quick start options are available:
 ## :pushpin: Copyright and license
 
 Code and documentation copyright 2020  Code released under the [MIT License](https://github.com/pimdotzazaza43/hotelsystem/blob/master/LICENSE)
+"# HMS" 
